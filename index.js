@@ -59,9 +59,8 @@ const clientPrompt = () => {
         },
     ])
         .then((choices) => {
-            clientPrompt();
     writeTofile("logo.svg", choices);
 });
 }
 
-promptUser();
+clientPrompt();
