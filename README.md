@@ -23,4 +23,4 @@ During the creation of this logo generator I had to read-up on and lean about SV
 
 ## Links
 
-- [Watch the Walkthrough video]
+- [Watch the Walkthrough video](https://drive.google.com/file/d/1-91C3S30m1o4Jg4F1KYnsKBhOIqFfwrb/view?usp=sharing)
